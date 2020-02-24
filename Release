@@ -1,0 +1,8 @@
+Origin: TryingDev06's Testing Repo
+Label: TryingDev06's Testing Repo
+Suite: beta
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A repo for testing my unreleased packages.

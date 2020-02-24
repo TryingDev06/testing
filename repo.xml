@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow Me On Twitter!</name>
+			<url>https://twitter.com/TryingDev06</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Feel Free To Contact Me!</name>
+			<url>mailto:modmacbook1@gmail.com</url>
+			<iconclass>fa fa-envelope</iconclass>
+		</link>
+	</footerlinks>
+</repo>
