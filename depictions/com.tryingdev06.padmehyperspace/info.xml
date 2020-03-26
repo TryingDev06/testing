@@ -1,0 +1,24 @@
+<package>
+	<id>com.tryingdev06.padmehyperspace</id>
+	<name>Padme Hyperspace Wallpaper</name>
+	<version>0.1.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.3.1</miniOS>
+			<maxiOS>13.3.1</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>com.anemonetheming.anemone | com.spark.snowboard</dependencies>
+	<descriptionlist>
+		<description>This is a live wallpaper of Senator Amidala standing on the bridge of the Executor Super Star Destroyer as it travels through hyperspace.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Updated to make the video more seamless in a loop and remove some hair that didn't look great.</change>
+	</changelog>
+	<links></links>
+</package>
